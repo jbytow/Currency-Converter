@@ -43,3 +43,4 @@ def get_yearly_rates(amount, currency, converted_currency, amount_of_days):
 
 
 get_yearly_rates(1, 'EUR', 'GBP', 365)
+
